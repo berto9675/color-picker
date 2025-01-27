@@ -13,7 +13,10 @@ Este proyecto consiste en crear una aplicación web que permite a los usuarios e
 
 ## 🌐 **Acceso al Sitio Web**
 El proyecto está alojado en **GitHub Pages** y se puede acceder mediante este enlace:  
-[Color Picker App en GitHub Pages](https://tuusuario.github.io/color-picker-app)
+[Color Picker App en GitHub Pages](https://berto9675.github.io/color-picker/)
+
+![image](https://github.com/user-attachments/assets/b620cf4a-c7d2-4691-bb54-0b58002d4844)
+
 
 ---
 
@@ -69,5 +72,3 @@ color-picker-app/
 Este proyecto está bajo la Licencia de [Berto9675](https://github.com/berto9675).
 
 ---
-
-**Autor:** Alberto Vicente Díaz
